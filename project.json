@@ -3,9 +3,9 @@
   "name": "resume analyzer",
   "desc": "New project",
   "description": "New project",
-  "status": "In Progress",
-  "progress": 0,
-  "tasks": "0 / 1",
+  "status": "Completed",
+  "progress": 100,
+  "tasks": "1 / 1",
   "owner": "harshithshetty4",
   "gitUsername": "harshithshetty4",
   "githubRepoUrl": "https://github.com/harshithshetty4/resume-analyzer",
@@ -28,7 +28,7 @@
     {
       "id": 1793870947102,
       "title": "ftdgfcyg",
-      "done": false,
+      "done": true,
       "priority": "medium"
     }
   ],
