@@ -1,0 +1,29 @@
+{
+  "name": "resume analyzer",
+  "slug": "resume-analyzer",
+  "description": "New project",
+  "owner": "harshithshetty4",
+  "gitUsername": "harshithshetty4",
+  "status": "In Progress",
+  "dueDate": "2026-12-05",
+  "progress": 0,
+  "tasks": "0 / 0",
+  "taskList": [],
+  "members": [
+    "harshithshetty4"
+  ],
+  "memberRoles": [
+    {
+      "email": "harshithshetty4",
+      "username": "harshithshetty4",
+      "role": "admin"
+    }
+  ],
+  "notes": [],
+  "deliverables": [],
+  "brief": "",
+  "createdAt": "2026-11-05 11:56:41",
+  "updatedAt": "2026-11-05 11:56:41",
+  "githubRepoUrl": "https://github.com/harshithshetty4/resume-analyzer",
+  "workspacePath": "workspace/projects/resume-analyzer"
+}
